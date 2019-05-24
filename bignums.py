@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 """
-# This programs breaks down numbers into their word parts
-# By: Bill Blasingim
+    This programs breaks down numbers into their word parts
+
+    By: Bill Blasingim
+    On: 08/24/2007
+
 """
 import string
 
